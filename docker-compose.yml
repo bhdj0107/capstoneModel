@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  apiServer:
+    image: python:3.12.5-slim-bullseye
+    
